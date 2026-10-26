@@ -1,0 +1,48 @@
+#######################################
+# Syntax Coloring Map For DevLab_TrafficLights
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DevLab_TrafficLights	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+beginRecovered	KEYWORD2
+setMask	KEYWORD2
+readMask	KEYWORD2
+setLight	KEYWORD2
+readLight	KEYWORD2
+red	KEYWORD2
+yellow	KEYWORD2
+green	KEYWORD2
+allOn	KEYWORD2
+allOff	KEYWORD2
+mask	KEYWORD2
+setAddress	KEYWORD2
+resetFactoryAddress	KEYWORD2
+readAddress	KEYWORD2
+readAddressSource	KEYWORD2
+address	KEYWORD2
+busReady	KEYWORD2
+isConnected	KEYWORD2
+deviceInfo	KEYWORD2
+printInfo	KEYWORD2
+protocol	KEYWORD2
+bus	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DEVICE_ID	LITERAL1
+DEFAULT_ADDRESS	LITERAL1
+GREEN	LITERAL1
+YELLOW	LITERAL1
+RED	LITERAL1
+ALL	LITERAL1
